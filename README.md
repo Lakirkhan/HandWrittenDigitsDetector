@@ -1,4 +1,3 @@
-# HandWrittenDigitsDetector
 
 # 🧠 MNIST Digit Recognizer with CNN and Streamlit
 
